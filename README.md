@@ -17,6 +17,8 @@
 [![sqale_index](https://sonarcloud.io/api/project_badges/measure?project=chubbyts_chubbyts-undici-cors&metric=sqale_index)](https://sonarcloud.io/dashboard?id=chubbyts_chubbyts-undici-cors)
 [![vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=chubbyts_chubbyts-undici-cors&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=chubbyts_chubbyts-undici-cors)
 
+**Deprecated: @chubbyts/chubbyts-undici-cors is no longer maintained, use [@chubbyts/chubbyts-http-cors](https://github.com/chubbyts/chubbyts-http-cors) instead.**
+
 ## Description
 
 A minimal cors middleware for chubbyts-undici-server.
